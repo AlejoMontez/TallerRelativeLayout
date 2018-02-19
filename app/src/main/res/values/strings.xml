@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TallerRelativeLayout</string>
+    <string name="welcome">Welcome!</string>
+    <string name="mensaje1">I was born free as Caesar, so were you; We both</string>
+    <string name="mensaje2">have fed as well, and we can both Endure the</string>
+    <string name="mensaje3">winter\'s cold as well as he.</string>
+    <string name="top_stories">TOP STORIES</string>
+    <string name="create_a_story">CREATE A STORY</string>
+    <string name="how_it_works">HOW IT WORKS</string>
+</resources>
